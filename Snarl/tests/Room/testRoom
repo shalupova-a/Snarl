@@ -1,0 +1,4 @@
+#!/bin/sh
+
+javac -cp .:org.json-20120521.jar TestRoom.java
+java -cp .:org.json-20120521.jar TestRoom

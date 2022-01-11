@@ -1,0 +1,5 @@
+package Game.UI;
+
+public enum GameViewType {
+    START_SCREEN, GAME_PLAY_SCREEN, MENU_SCREEN, LEVEL_END_SCREEN, END_GAME_SCREEN
+}

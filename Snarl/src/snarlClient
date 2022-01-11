@@ -1,0 +1,7 @@
+#!/bin/bash
+#
+#chmod +x gradlew
+#./gradlew clean
+#./gradlew fatJar
+
+java -jar app/build/libs/app.jar "$@" -t client

@@ -1,0 +1,5 @@
+chmod +x gradlew
+./gradlew clean
+./gradlew build
+./gradlew fatJar
+./gradlew run
